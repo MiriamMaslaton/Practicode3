@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xt6OAAsdfSj5rSgjUNVLaHM5Rdmb8nOmqHwFaX37FYt57gQIbxMOttCkfdef1fs1QWo+4/Q6uzWSJ1xJyQ3TJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\מרים ה100ממת\\תכנות מרים\\פרקטיקוד\\3\\Service\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\octokit\\6.1.0\\octokit.6.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
